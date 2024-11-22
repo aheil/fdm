@@ -12,21 +12,20 @@ Anycubic used to provide a very good standard PLA and PLA+ filament. No stringin
 
 **OrcaSlicer Settings**
 
-Temp: 195°C  
-OrcaSlicer Tests for  
-Flow Rate: Pass 1: 5  
-Flor Rate Pass 2: 0  
-Flow Rate: 1,05  
-Retraction Length 0,6mm  
-Volumetric Speed: 16  
+Temp: 205°C  
+ 
+Flow Rate: 1,09  
+Retraction Length 0,7mm  
+Volumetric Speed: 12  
 
 **Printing Issues**
 
-The filament caused quite a lot of pillowing. 
+For unknown reasons, the filament caused a lot of pillowing.
+While the flow rate test showed a flow rate of 1,05 the best result, with OrcaSlicers new YOLO test, I figured out, that 1,09 provided much better results - including pillowing disapearing. 
 
 ![alt text](images/filament_anycubic_pillowing.jpeg)
 
-Reason: unknown
+While the tests showed me tu use 195 for the nozzle temperature, printing results seemed to be quite bad in terms of stringing. Increains the emerpature to 205 almost removed the stringing.
 
 ### dasFilament
 

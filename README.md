@@ -1,5 +1,6 @@
 # fdm
-Collection of usefull FDM printer information.
+
+Sammlung von Informationen zum FDM Druck.
 
 Anycubic Kobra Neo 2
  - [Filament data](filament.md)
