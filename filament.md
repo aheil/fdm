@@ -27,6 +27,10 @@ While the flow rate test showed a flow rate of 1,05 the best result, with OrcaSl
 
 While the tests showed me tu use 195 for the nozzle temperature, printing results seemed to be quite bad in terms of stringing. Increains the emerpature to 205 almost removed the stringing.
 
+Things to Test:
+- Reduce your printing speed in 10mm/s increments until the problem is solved
+- Reduce ‘Support Speed’ and ‘Support Infill Speed’ which is usually half of your printing speed
+
 ### dasFilament
 
 TBD
