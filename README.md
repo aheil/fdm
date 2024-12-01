@@ -1,9 +1,12 @@
-# fdm
+# The not-so-ultimate collection fo FDM printing tips
 
-Sammlung von Informationen zum FDM Druck.
+Welcome to my collection of FDM printing information. 
 
-Anycubic Kobra Neo 2
- - [Filament data](filament.md)
- - [Printer Errors](errors.md)
+There are tons of videos, tips and dokumentations out there. Eventually, I started bookmarking everything I found. However, in this mess of inforamtion, it is sometimes hard to find the inforamtion. Therefore, I decided to pull everything I`ve learned together in this place.
 
-Spool Weights
+- [Filament Data](filament.md)
+- [Printer Errors](errors.md)
+- [Spool Weights](spools.md)
+- [Printers](printers.md)
+
+
