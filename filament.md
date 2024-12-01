@@ -36,6 +36,10 @@ While the tests showed me to use 195°C for the nozzle temperature, printing res
 | Volumetric Speed | -- |
 
 
+Things to Test:
+- Reduce your printing speed in 10mm/s increments until the problem is solved
+- Reduce ‘Support Speed’ and ‘Support Infill Speed’ which is usually half of your printing speed
+
 ### dasFilament
 
 TBD
