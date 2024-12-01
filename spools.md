@@ -7,7 +7,8 @@ In the following, I have listed the spool, I (frequently) have seen in my worksh
 | Image | Details |
 | --- | --- |
  ![alt text](images/spools_filamentum_small.jpeg)  | **Fillamentum** <br> Weight: 227g |
-
+| | **Anycubic** <br> Cardboard <br> Weight: 135g |
+| | **Anycubic** <br> Weight: 136g| 
 
 Further databases: 
 
