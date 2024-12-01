@@ -6,17 +6,16 @@ I tried various vendors for my projects. Here are some of my experiences.
 
 Anycubic used to provide a very good standard PLA and PLA+ filament. No stringing, not sticky no layer lines, worked for very long bridges. It seemed to me the best standard PLA for a very good price. 
 
-**2024 Anycubic changed their standard filament. It shows a lot of stringing and very sticky.**
+**2024 Anycubic changed their standard filament. It shows a lot of stringing and very sticky. After some testing, I came to following "sort-of-ok" settings.**
 
 ### Anycubic PLA (2024)
 
-**OrcaSlicer Settings**
-
-Temp: 205°C  
- 
-Flow Rate: 1,09  
-Retraction Length 0,7mm  
-Volumetric Speed: 12  
+|Setting|Value| 
+| --- | --- |
+| Temp | 205°C |
+| Flow Rate | 1.09 |
+| Retraction Length | 0.7mm |
+| Volumetric Speed | 12 |
 
 **Printing Issues**
 
@@ -25,11 +24,23 @@ While the flow rate test showed a flow rate of 1,05 the best result, with OrcaSl
 
 ![alt text](images/filament_anycubic_pillowing.jpeg)
 
-While the tests showed me tu use 195 for the nozzle temperature, printing results seemed to be quite bad in terms of stringing. Increains the emerpature to 205 almost removed the stringing.
+While the tests showed me to use 195°C for the nozzle temperature, printing results seemed to be quite bad in terms of stringing. Increasing the temerpature to 205°C almost removed the stringing.
+
+### dasFilament PETG
+
+|Setting|Value| 
+| --- | --- |
+| Temp | 220°C |
+| Flow Rate | 1.04 |
+| Retraction Length | 0.4mm |
+| Volumetric Speed | -- |
+
 
 ### dasFilament
 
 TBD
+
+
 
 ### Filament Unger
 
