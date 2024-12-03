@@ -1,8 +1,6 @@
-# Filament 
-
 I tried various vendors for my projects. Here are some of my experiences.
 
-## Anycubic 
+# Anycubic 
 
 Anycubic used to provide a very good standard PLA and PLA+ filament. No stringing, not sticky no layer lines, worked for very long bridges. It seemed to me the best standard PLA for a very good price. 
 
@@ -26,18 +24,21 @@ While the flow rate test showed a flow rate of 1,05 the best result, with OrcaSl
 
 While the tests showed me to use 195°C for the nozzle temperature, printing results seemed to be quite bad in terms of stringing. Increasing the temerpature to 205°C almost removed the stringing.
 
-### dasFilament PETG
+# dasFilament PETG
 
 |Setting|Value| 
 | --- | --- |
 | Temp | 220°C |
 | Flow Rate | 1.04 |
 | Retraction Length | 0.4mm |
-| Volumetric Speed | -- |
+| Volumetric Speed | TBA |
+
+Print Speedn: 100 mm/s was not an issue for retrieving a very good print result 
+
+# Sunlu PETG
 
 
 Things to Test:
-- Reduce your printing speed in 10mm/s increments until the problem is solved
 - Reduce ‘Support Speed’ and ‘Support Infill Speed’ which is usually half of your printing speed
 
 ### dasFilament
