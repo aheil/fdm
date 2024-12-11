@@ -9,8 +9,8 @@ In the following, I have listed the spool, I (frequently) have seen in my worksh
  ![alt text](images/spools_filamentum_small.jpeg)  | **Fillamentum** <br> Weight: 227g |
 |![alt text](images/spools_anycubic_cardboard_small.jpeg) | **Anycubic** <br> Cardboard <br> Weight: 135g |
 |![alt text](images/spools_anycubic_small.jpeg) | **Anycubic** <br> Weight: 136g| 
-|![alt text](images/spools_sunlu_refill_small.jpeg) | **Sunlu** <br> Weight: 167g|
-|![alt text](images/spools_dasFilament_small.jpeg) | **Anycubic** <br> Weight: TBAg|  
+|![alt text](images/spools_sunlu_refill_small.jpeg) | **Sunlu** <br> Weight: 162g|
+|![alt text](images/spools_dasFilament_small.jpeg) | **dasFilament** <br> Weight: TBAg|  
 
 Further databases: 
 
