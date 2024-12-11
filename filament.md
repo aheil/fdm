@@ -37,6 +37,17 @@ Print Speedn: 100 mm/s was not an issue for retrieving a very good print result
 
 # Sunlu PETG
 
+|Setting|Value| 
+| --- | --- |
+| Temp | 230°C |
+| Flow Rate | 1 |
+| Retraction Length | TBA |
+| Volumetric Speed | TBA |
+| Print Speed | 80 mm/s |
+| Ironing Speed | 15 mm/s |
+| Ironing Flow | 30% |
+| Ironing Line Spacing | 0.1 mm | 
+
 
 Things to Test:
 - Reduce ‘Support Speed’ and ‘Support Infill Speed’ which is usually half of your printing speed
@@ -51,9 +62,22 @@ TBD
 
 TBD
 
-### Recycling Fabrik 
+### Recycling Fabrik PETG
 
-TBD
+|Setting|Value| 
+| --- | --- |
+| Temp | 210°C |
+| Flow Rate | 1.05 |
+| Retraction Length | TBA |
+| Volumetric Speed | TBA |
+| Print Speed | 100 mm/s |
+| Ironing Speed | 15 mm/s |
+| Ironing Flow | TBA |
+| Ironing Line Spacing | 0.1 mm | 
+
+The best results for PETG was about 210°C. The least strings, no oozing. Best overhangs in the temp test.
+
+Based on the YOLO test, we need a flow rate of 1.05.
 
 ### Sunlu 
 
